@@ -1,0 +1,6 @@
+pages\MyAccount.class
+pages\LoginPage.class
+commonUtilities\Base.class
+pages\HomePage.class
+commonUtilities\DriverManager.class
+pages\RegistrationPage.class
